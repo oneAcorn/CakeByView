@@ -1,5 +1,7 @@
 cakeview
 ========
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 <b>因为SurfaceView不支持移动(滚动scrllview,对整体surface的动画),以致放到viewpager,scrollview中会出现奇怪的现象<br>,所以又用自定义的双缓冲View(也不知道这么叫对不对)实现了一个饼图</b>
 
